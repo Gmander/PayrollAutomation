@@ -1,0 +1,374 @@
+                                                                           Unnamed: 0  Unnamed: 36
+0                                                             Worker Comp Cost Report          NaN
+1                                                                                 NaN          NaN
+2                                                                Affiliate: CES INVO           NaN
+3                                                                                 NaN          NaN
+4                                                                                 For          NaN
+5                                                                                 NaN          NaN
+6                                                                                 NaN          NaN
+7                                                                                 NaN          NaN
+8                                                                                 NaN          NaN
+9                                                                                 NaN          NaN
+10                                                                                NaN          NaN
+11                                                              WC Code - Description  Gross Wages
+12                                                               Branch: CES INVO AOS          NaN
+13                                                  Customer: BR - Bracco Diagnostics          NaN
+14                                                                 NY 8810 - Clerical         2736
+15                                                 Subtotal - BR - Bracco Diagnostics         2736
+16                                                    Customer: BR - Sherwin Williams          NaN
+17                                                     IL 4828 - Warehouse technician      2751.88
+18                                      TX 4511 - Analytical Laboratories or Assaying         4613
+19                                                   Subtotal - BR - Sherwin Williams      7364.88
+20                               Customer: Conrad Phillips dba Revolution Restoration          NaN
+21                                                                 TN 8810 - Clerical         2800
+22                              Subtotal - Conrad Phillips dba Revolution Restoration         2800
+23                                          Customer: GSD Construction Services,  LLC          NaN
+24                                                                 IL 8810 - Clerical         3500
+25                                         Subtotal - GSD Construction Services,  LLC         3500
+26                                            Customer: John Neff DBA JD Tree Service          NaN
+27                                                            CA 0106 - Tree Trimming         2704
+28                                           Subtotal - John Neff DBA JD Tree Service         2704
+29                                         Customer: Keystone General Contracting LLC          NaN
+30                                                                 LA 8810 - Clerical      6538.46
+31                                        Subtotal - Keystone General Contracting LLC      6538.46
+32                                                          Customer: Lunex Power Inc          NaN
+33                                                                 MA 8810 - Clerical     34834.51
+34                                                         Subtotal - Lunex Power Inc     34834.51
+35                                      Customer: NH - Jaxon Maintenance Service, Inc          NaN
+36                                                               CT 9014 - Janitorial      9732.02
+37                                                               NY 9014 - Janitorial      1460.25
+38                                     Subtotal - NH - Jaxon Maintenance Service, Inc     11192.27
+39                                                    Customer: Superior Tree Service          NaN
+40                                                            CA 0106 - Tree Trimming          450
+41                                                   Subtotal - Superior Tree Service          450
+42                                                            Subtotal - CES INVO AOS     72120.12
+43                                                                Branch: CES INVO FL          NaN
+44                                             Customer: 100 Percent Construction LLC          NaN
+45                                                                  FL 5551 - Roofing     16834.81
+46                                            Subtotal - 100 Percent Construction LLC     16834.81
+47                                               Customer: Advanced Roofing South INC          NaN
+48                                                                  FL 5551 - Roofing        12240
+49                                              Subtotal - Advanced Roofing South INC        12240
+50                                                   Customer: Arch Enterprises, Inc.          NaN
+51                                                                 FL 8810 - Clerical          625
+52                                                  Subtotal - Arch Enterprises, Inc.          625
+53                                             Customer: Axiom Contracting Group, LLC          NaN
+54                                                                  FL 5551 - Roofing     17684.96
+55                                                                 FL 8810 - Clerical         3136
+56                                            Subtotal - Axiom Contracting Group, LLC     20820.96
+57                                                         Customer: Banks Brothers 2          NaN
+58                                                               FL 7380 - Food Truck        10903
+59                                                        Subtotal - Banks Brothers 2        10903
+60                                                      Customer: Bay Site Works, LLC          NaN
+61                                                             FL 0106 - Tree pruning         7795
+62                                                     Subtotal - Bay Site Works, LLC         7795
+63                                   Customer: Bernell Rhone dba Bernell Rhone Racing          NaN
+64                                                           FL 7205 - Horse Training         4320
+65                                  Subtotal - Bernell Rhone dba Bernell Rhone Racing         4320
+66                                              Customer: Body Armour Demolition, Inc          NaN
+67                                                                  FL 5551 - Roofing        42000
+68                                                                 FL 8810 - Clerical        20000
+69                                             Subtotal - Body Armour Demolition, Inc        62000
+70                                                         Customer: C & S Fence Inc.          NaN
+71                                                       FL 6400 - Fence installation         1650
+72                                                        Subtotal - C & S Fence Inc.         1650
+73                                 Customer: Clean Cut Power Wash and Power Seal, LLC          NaN
+74                                                                  FL 5551 - Roofing         2750
+75                                Subtotal - Clean Cut Power Wash and Power Seal, LLC         2750
+76                                              Customer: Coastal Employment Services          NaN
+77                                                                    FL 8742 - Sales        10000
+78                                             Subtotal - Coastal Employment Services        10000
+79                                            Customer: Coastal Roofing Solutions LLC          NaN
+80                                                                  FL 5551 - Roofing        27276
+81                                           Subtotal - Coastal Roofing Solutions LLC        27276
+82                                     Customer: Coastline Tree Service & Landscaping          NaN
+83                                                             FL 0106 - Tree pruning      2402.19
+84                                    Subtotal - Coastline Tree Service & Landscaping      2402.19
+85                                                        Customer: Dad & Son CM, LLC          NaN
+86                                                                  FL 5551 - Roofing         5250
+87                                                       Subtotal - Dad & Son CM, LLC         5250
+88                                                   Customer: Dan Tennis Roofing Inc          NaN
+89                                                                  FL 5551 - Roofing         2750
+90                                                                 FL 8810 - Clerical         7100
+91                                                  Subtotal - Dan Tennis Roofing Inc         9850
+92                                                        Customer: Darcy Roofing LLC          NaN
+93                                                                  FL 5551 - Roofing          891
+94                                                                 FL 8810 - Clerical         3000
+95                                                       Subtotal - Darcy Roofing LLC         3891
+96                                                          Customer: Dolphin Roofing          NaN
+97                                                                  FL 5551 - Roofing         2000
+98                                                         Subtotal - Dolphin Roofing         2000
+99                                   Customer: Donna's Restaurant and Cocktail Lounge          NaN
+100                                                              FL 9082 - Restaurant     33059.51
+101                                 Subtotal - Donna's Restaurant and Cocktail Lounge     33059.51
+102                                                      Customer: Double C Bar Ranch          NaN
+103                         FL 0083 - Farm: Cattle or Livestock Raising NOC & Drivers       8060.2
+104                                                                FL 8810 - Clerical       749.52
+105                                                     Subtotal - Double C Bar Ranch      8809.72
+106                                                  Customer: Elite Restoration Corp          NaN
+107                                                                 FL 5551 - Roofing         8000
+108                                                 Subtotal - Elite Restoration Corp         8000
+109                                       Customer: Ellis Roofing and Sheetmetal, LLC          NaN
+110                                                                 FL 5551 - Roofing         2160
+111                                      Subtotal - Ellis Roofing and Sheetmetal, LLC         2160
+112                                                         Customer: Flip Circus LLC          NaN
+113                                      FL 9014 - JANITORIAL SERVICES BY CONTRACTORS         4370
+114                                                  FL 9083 - Restaurant - Fast Food         4100
+115                                                        Subtotal - Flip Circus LLC         8470
+116                                               Customer: Florida Metal Roofing Inc          NaN
+117                                                                 FL 5551 - Roofing         2068
+118                                              Subtotal - Florida Metal Roofing Inc         2068
+119                                                        Customer: Fullness Roofing          NaN
+120                                                                 FL 5551 - Roofing         5000
+121                                                       Subtotal - Fullness Roofing         5000
+122                                                               Customer: Goya Corp          NaN
+123                                                         FL 5606 - Exec supervisor        13500
+124                                                              Subtotal - Goya Corp        13500
+125                                       Customer: Green Home Improvements Plus, LLC          NaN
+126                                                 FL 5102 - Door and Window install         1750
+127                                      Subtotal - Green Home Improvements Plus, LLC         1750
+128                                         Customer: GSD Construction Services,  LLC          NaN
+129                                                                   FL 8742 - Sales         4200
+130                                                                FL 8810 - Clerical         5000
+131                                        Subtotal - GSD Construction Services,  LLC         9200
+132                                      Customer: Hall Bros Roofing and Construction          NaN
+133                                                         FL 5606 - Exec supervisor         4000
+134                                     Subtotal - Hall Bros Roofing and Construction         4000
+135                                                        Customer: Harrison Roofing          NaN
+136                                                                 FL 5551 - Roofing          264
+137                                                       Subtotal - Harrison Roofing          264
+138                                                     Customer: Howell Construction          NaN
+139                                                         FL 5606 - Exec supervisor            0
+140                                                    Subtotal - Howell Construction            0
+141                                       Customer: Industrus LLC dba The Roof Xperts          NaN
+142                                                                 FL 5551 - Roofing         5536
+143                                                                FL 8810 - Clerical          217
+144                                      Subtotal - Industrus LLC dba The Roof Xperts         5753
+145                                    Customer: Ireti - Aegis Roofing Enterprise Inc          NaN
+146                                                                 FL 5551 - Roofing         2400
+147                                                                FL 8810 - Clerical          225
+148                                   Subtotal - Ireti - Aegis Roofing Enterprise Inc         2625
+149                                             Customer: Ireti - G Force Roofing Inc          NaN
+150                                                                 FL 5551 - Roofing         3600
+151                                            Subtotal - Ireti - G Force Roofing Inc         3600
+152                                                       Customer: Ireti - JB Impact          NaN
+153                                                                 FL 5551 - Roofing         1840
+154                                                      Subtotal - Ireti - JB Impact         1840
+155                               Customer: Ireti - Stability Roofing and Contracting          NaN
+156                                                                 FL 5551 - Roofing         2880
+157                              Subtotal - Ireti - Stability Roofing and Contracting         2880
+158                                              Customer: Ireti - Valles Roofing INC          NaN
+159                                                                 FL 5551 - Roofing         9000
+160                                                                FL 8810 - Clerical         2200
+161                                             Subtotal - Ireti - Valles Roofing INC        11200
+162                                                     Customer: J Moss Construction          NaN
+163                                                 FL 5102 - Door and Window install          588
+164                                                    Subtotal - J Moss Construction          588
+165                                                Customer: J&M Roofing Services Inc          NaN
+166                                                                 FL 5551 - Roofing      22588.2
+167                                                                FL 8810 - Clerical        20719
+168                                               Subtotal - J&M Roofing Services Inc      43307.2
+169                                      Customer: Jacksonwest LLC dba Sharpe Roofing          NaN
+170                                                                 FL 5551 - Roofing         6250
+171                                     Subtotal - Jacksonwest LLC dba Sharpe Roofing         6250
+172                                       Customer: Jeb's Above & Beyond Tree Service          NaN
+173                                                           FL 0106 - Tree Trimming         9564
+174                                                                FL 8810 - Clerical         1800
+175                                      Subtotal - Jeb's Above & Beyond Tree Service        11364
+176                              Customer: Johnny Gray dba Roof Systems International          NaN
+177                                                                 FL 5551 - Roofing         2058
+178                             Subtotal - Johnny Gray dba Roof Systems International         2058
+179                                                   Customer: Kynaston Construction          NaN
+180                                                 FL 5403 - CARPENTRY NOC & DRIVERS         2250
+181                                                  Subtotal - Kynaston Construction         2250
+182                                       Customer: Legion Roofing & Construction LLC          NaN
+183                                                                FL 8810 - Clerical         9500
+184                                      Subtotal - Legion Roofing & Construction LLC         9500
+185                                        Customer: Lightning Fast Roofing and Solar          NaN
+186                                                                 FL 5551 - Roofing          858
+187                                       Subtotal - Lightning Fast Roofing and Solar          858
+188                                              Customer: Living Green Tree Services          NaN
+189                                                           FL 0106 - Tree Trimming        18750
+190                                             Subtotal - Living Green Tree Services        18750
+191                                                  Customer: Long Lasting Roof Corp          NaN
+192                                                                 FL 5551 - Roofing        12720
+193                                                 Subtotal - Long Lasting Roof Corp        12720
+194                                            Customer: Minzy's Lawn Maintenance Inc          NaN
+195                                                             FL 0042 - Landscaping         7350
+196                                           Subtotal - Minzy's Lawn Maintenance Inc         7350
+197                                      Customer: NH - Fiddler's Quality Roofing LLC          NaN
+198                                                                 FL 5551 - Roofing         9250
+199                                                                FL 8810 - Clerical         5615
+200                                     Subtotal - NH - Fiddler's Quality Roofing LLC        14865
+201                                                 Customer: NH - High Inspectations          NaN
+202                                                                 FL 5551 - Roofing         7105
+203                                                                FL 8810 - Clerical       7071.9
+204                                                Subtotal - NH - High Inspectations      14176.9
+205                                    Customer: NH - Responsive Drip Irrigation, LLC          NaN
+206                                                             FL 0042 - Landscaping       605.21
+207                                                                FL 8810 - Clerical     14231.08
+208                                   Subtotal - NH - Responsive Drip Irrigation, LLC     14836.29
+209                                         Customer: NH - RJ Carpentry & Roofing LLC          NaN
+210                                                                 FL 5551 - Roofing         3488
+211                                        Subtotal - NH - RJ Carpentry & Roofing LLC         3488
+212                                                 Customer: NH - Terk's Roofing Inc          NaN
+213                                                                 FL 5551 - Roofing     14728.95
+214                                                                FL 8810 - Clerical         2440
+215                                                Subtotal - NH - Terk's Roofing Inc     17168.95
+216   Customer: NH - The Keys Carpet Lady and Floor Guy, Inc dba Preferred Painting 2          NaN
+217                                 FL 5474 - PAINTING NOC & SHOP OPERATIONS, DRIVERS         2880
+218  Subtotal - NH - The Keys Carpet Lady and Floor Guy, Inc dba Preferred Painting 2         2880
+219                                                Customer: NH - Triune Builders Inc          NaN
+220                                                                 FL 5551 - Roofing     57020.97
+221                                                                FL 8810 - Clerical     19297.26
+222                                      FL 9014 - JANITORIAL SERVICES BY CONTRACTORS         2765
+223                                               Subtotal - NH - Triune Builders Inc     79083.23
+224                                         Customer: OJ Services of Construction Inc          NaN
+225                                                                 FL 5551 - Roofing        16796
+226                                        Subtotal - OJ Services of Construction Inc        16796
+227                                                  Customer: Paradise Palm Services          NaN
+228                                                           FL 0106 - Tree Trimming         2460
+229                                                 Subtotal - Paradise Palm Services         2460
+230                                               Customer: Pine Roofing Services Inc          NaN
+231                                                                 FL 5551 - Roofing         1931
+232                                              Subtotal - Pine Roofing Services Inc         1931
+233                                        Customer: Pinnacle Tree Professionals, Inc          NaN
+234                                                            FL 0106 - Tree pruning      3605.75
+235                                                                FL 8810 - Clerical         2500
+236                                       Subtotal - Pinnacle Tree Professionals, Inc      6105.75
+237                                      Customer: PS - A. M. Roofing & Waterproofing          NaN
+238                                                                 FL 5551 - Roofing         8880
+239                                     Subtotal - PS - A. M. Roofing & Waterproofing         8880
+240                                      Customer: PS - All Florida State Roofing LLC          NaN
+241                                                                 FL 5551 - Roofing         2880
+242                                                                FL 8810 - Clerical         1320
+243                                     Subtotal - PS - All Florida State Roofing LLC         4200
+244                                                        Customer: PS - Cliff Davis          NaN
+245                                                                FL 8810 - Clerical         2500
+246                                                       Subtotal - PS - Cliff Davis         2500
+247                                                 Customer: PS - Clover Roofing Inc          NaN
+248                                                                 FL 5551 - Roofing         2270
+249                                                Subtotal - PS - Clover Roofing Inc         2270
+250                                                   Customer: PS - DOUBLE J ROOFING          NaN
+251                                                                 FL 5551 - Roofing         3630
+252                                                  Subtotal - PS - DOUBLE J ROOFING         3630
+253                                   Customer: PS - Kingdom Vision Construction Corp          NaN
+254                                                                 FL 5551 - Roofing         3456
+255                                  Subtotal - PS - Kingdom Vision Construction Corp         3456
+256                                              Customer: PS - MITCHELL ROOF SYSTEMS          NaN
+257                                                                 FL 5551 - Roofing         6000
+258                                             Subtotal - PS - MITCHELL ROOF SYSTEMS         6000
+259                           Customer: PS - Perfection Pressure Washing by Ryan, LLC          NaN
+260                                                                 FL 5551 - Roofing         1100
+261                          Subtotal - PS - Perfection Pressure Washing by Ryan, LLC         1100
+262                                     Customer: PS - PROFESSIONAL PRESSURE UNLIM TB          NaN
+263                                      FL 9014 - JANITORIAL SERVICES BY CONTRACTORS          880
+264                                    Subtotal - PS - PROFESSIONAL PRESSURE UNLIM TB          880
+265                                  Customer: PS - RECOVERY CENTER & MANAGEMENT  INC          NaN
+266                                                                FL 8810 - Clerical         1800
+267                                 Subtotal - PS - RECOVERY CENTER & MANAGEMENT  INC         1800
+268                                          Customer: PS - TYER'S ROOFING & SONS INC          NaN
+269                                                                 FL 5551 - Roofing        20740
+270                                                                FL 8810 - Clerical       839.05
+271                                         Subtotal - PS - TYER'S ROOFING & SONS INC     21579.05
+272                                                  Customer: Red Ladder Roofing LLC          NaN
+273                                                                 FL 5551 - Roofing         6600
+274                                                 Subtotal - Red Ladder Roofing LLC         6600
+275                                                  Customer: Red Star Solutions Inc          NaN
+276                                                                   FL 8742 - Sales         1700
+277                                                 Subtotal - Red Star Solutions Inc         1700
+278                                                           Customer: Reliable Tree          NaN
+279                                                           FL 0106 - Tree Trimming         5000
+280                                                          Subtotal - Reliable Tree         5000
+281                                                              Customer: Rock Solid          NaN
+282                                                                 FL 5551 - Roofing         7600
+283                                                                   FL 8742 - Sales         5000
+284                                                                FL 8810 - Clerical         1920
+285                                                             Subtotal - Rock Solid        14520
+286                                     Customer: Rosanio Godinez Lawn & Tree Service          NaN
+287                                                            FL 0106 - Tree pruning         5280
+288                                    Subtotal - Rosanio Godinez Lawn & Tree Service         5280
+289                                        Customer: RVG Construction and Roofing LLC          NaN
+290                                                                 FL 5551 - Roofing          950
+291                                                                FL 8810 - Clerical          825
+292                                       Subtotal - RVG Construction and Roofing LLC         1775
+293                                         Customer: Secured Roofing and Restoration          NaN
+294                                                                 FL 5551 - Roofing       9539.2
+295                                                                FL 8810 - Clerical    112146.24
+296                                        Subtotal - Secured Roofing and Restoration    121685.44
+297                                                 Customer: Sophia Construction Inc          NaN
+298                                                                 FL 5551 - Roofing         3000
+299                                                Subtotal - Sophia Construction Inc         3000
+300                                        Customer: St Cloud Towing & Collission Inc          NaN
+301                                                            FL 7219 - TRUCKING NOC         2794
+302                                       Subtotal - St Cloud Towing & Collission Inc         2794
+303                                  Customer: Stenn Solutions Inc dba Employernomics          NaN
+304                                                                FL 8810 - Clerical         6350
+305                                 Subtotal - Stenn Solutions Inc dba Employernomics         6350
+306                          Customer: Storm Restoration Services LLC dba SRS Roofing          NaN
+307                                                                 FL 5551 - Roofing       974.52
+308                                                                FL 8810 - Clerical     28645.72
+309                         Subtotal - Storm Restoration Services LLC dba SRS Roofing     29620.24
+310                                       Customer: Suncoast Defensive Driving School          NaN
+311                                                   FL 8868 - College professional       11690.5
+312                                      Subtotal - Suncoast Defensive Driving School      11690.5
+313                                                     Customer: Suncoast Roofs, Inc          NaN
+314                                                                 FL 5551 - Roofing          900
+315                                                    Subtotal - Suncoast Roofs, Inc          900
+316                                                  Customer: Tomorrow Today FL, LLC          NaN
+317                                                               FL 5651 - Carpentry       1717.5
+318                                      FL 9014 - JANITORIAL SERVICES BY CONTRACTORS     11261.25
+319                                                 Subtotal - Tomorrow Today FL, LLC     12978.75
+320                                              Customer: Tree Solutions Florida LLC          NaN
+321                                                           FL 0106 - Tree Trimming         3800
+322                                                                   FL 8742 - Sales         8600
+323                                             Subtotal - Tree Solutions Florida LLC        12400
+324                            Customer: Upright Scaffold and Construction Supply LLC          NaN
+325                                                 FL 5403 - CARPENTRY NOC & DRIVERS         1275
+326                                                                FL 8810 - Clerical          165
+327                           Subtotal - Upright Scaffold and Construction Supply LLC         1440
+328                                                        Customer: Vanderprises LLC          NaN
+329                                                                 FL 5551 - Roofing          480
+330                                                         FL 5606 - Exec supervisor          600
+331                                                                FL 8810 - Clerical         1750
+332                                                       Subtotal - Vanderprises LLC         2830
+333                                              Customer: Vilchis Inc dba JV Roofing          NaN
+334                                                                 FL 5551 - Roofing     27403.75
+335                                             Subtotal - Vilchis Inc dba JV Roofing     27403.75
+336                                                        Customer: Walker & Company          NaN
+337                         FL 0083 - Farm: Cattle or Livestock Raising NOC & Drivers       3586.5
+338                                                       Subtotal - Walker & Company       3586.5
+339                                                 Customer: WCH Debris Removal, LLC          NaN
+340                                                           FL 0106 - Tree Trimming      5811.55
+341                                                Subtotal - WCH Debris Removal, LLC      5811.55
+342                                                  Customer: Wright Roofing Company          NaN
+343                                                                 FL 5551 - Roofing      17984.5
+344                                                 Subtotal - Wright Roofing Company      17984.5
+345                                                       Customer: Your Roofers, LLC          NaN
+346                                                                 FL 5551 - Roofing       4884.5
+347                                                                FL 8810 - Clerical         2712
+348                                                      Subtotal - Your Roofers, LLC       7596.5
+349                                    Customer: Zollars Landscaping & Irrigation LLC          NaN
+350                                                             FL 0042 - Landscaping         2900
+351                                   Subtotal - Zollars Landscaping & Irrigation LLC         2900
+352                                                            Subtotal - CES INVO FL    975715.29
+353                                                                               NaN          NaN
+354                                                                               NaN          NaN
+355                                                                               NaN          NaN
+356                                                                               NaN          NaN
+357                                                                               NaN          NaN
+358                                                                               NaN          NaN
+359                                                                               NaN          NaN
+360                                                                               NaN          NaN
+361                                                                               NaN          NaN
+362                                                                               NaN          NaN
+363                                                                               NaN          NaN
+364                                                                               NaN          NaN
+365                                                                               NaN          NaN
+366                                                                               NaN          NaN
+367                                                                               NaN          NaN
+368                                                                               NaN          NaN
+369                                                                               NaN          NaN
+370                                                                               NaN          NaN
+371                                                                               NaN          NaN
+372                                                                               NaN          NaN
